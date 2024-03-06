@@ -1,0 +1,2 @@
+
+SELECT * FROM transactions.informetecnico;
